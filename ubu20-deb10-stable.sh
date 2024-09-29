@@ -25,10 +25,10 @@ clear;clear;clear
 
 # // Banner
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "  Developer » BADBUD࿐${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Developer » huutvpn࿐${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e "  » This Will Quick Setup VPN Server On Your Server"
-echo -e "  Pembuat : ${green}BAIM࿐® ${NC}"
-echo -e "  HAK CIPTA BADBUD࿐ ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
+echo -e "  Pembuat : ${green}huutvpn࿐® ${NC}"
+echo -e "  HAK CIPTA huutvpn࿐ ${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
 sleep 2
